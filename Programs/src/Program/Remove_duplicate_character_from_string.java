@@ -23,7 +23,6 @@ public class Remove_duplicate_character_from_string {
 			  {
 				result = result +given.charAt(i);
 			  }
-			
 		}
 		System.out.println(result);	
 
