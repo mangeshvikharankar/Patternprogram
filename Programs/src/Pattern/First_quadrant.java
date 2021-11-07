@@ -1,11 +1,14 @@
 package Pattern;
 
 public class First_quadrant 
+	//first qud
 //*
 //**
 //***
 //****
 //*****
+	
+	
 
 {
 
