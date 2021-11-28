@@ -1,4 +1,4 @@
-package Program;
+package Arrayprogram;
 
 public class dupilcate_numbers_from_array 
 {

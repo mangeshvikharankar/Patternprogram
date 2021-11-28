@@ -1,4 +1,4 @@
-package Program;
+package Arrayprogram;
 
 public class prime_numbers_from_array 
 {
@@ -6,8 +6,7 @@ public class prime_numbers_from_array
 	public static void main(String[] args) 
 	{
 		int a []= {2, 8, 7, 10,11, 12};
-		
-		
+			
 		for (int i=0; i<a.length; i++)
 		{
 			int temp=0;

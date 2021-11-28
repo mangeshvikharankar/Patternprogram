@@ -23,8 +23,8 @@ public class Armstrong_Number
 		
 		else
 			
-			System.out.print(temp +" is not an armstrong number");
-		System.out.println(total);
+			System.out.println(temp +" is not an armstrong number");
+		System.out.println(total);	System.out.println(a);
 	}
 
 }

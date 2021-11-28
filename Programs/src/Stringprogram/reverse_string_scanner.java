@@ -1,4 +1,4 @@
-package Program;
+package Stringprogram;
 import java.util.Scanner;
 
 public class reverse_string_scanner 

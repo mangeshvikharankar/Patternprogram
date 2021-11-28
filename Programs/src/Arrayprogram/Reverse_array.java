@@ -1,4 +1,4 @@
-package Program;
+package Arrayprogram;
 
 public class Reverse_array 
 {
@@ -24,6 +24,10 @@ public class Reverse_array
 		  {
 			System.out.println(a[i]);  
 		  }
+//		   for (int i: a)
+//		   {
+//				System.out.println(i);   
+//		   }
 
 	}
 

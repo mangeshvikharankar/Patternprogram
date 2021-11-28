@@ -1,4 +1,4 @@
-package Program;
+package Stringprogram;
 
 public class Reverse_each_word_at_same_position 
 {

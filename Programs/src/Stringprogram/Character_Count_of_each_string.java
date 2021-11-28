@@ -1,4 +1,4 @@
-package Program;
+package Stringprogram;
 
 public class Character_Count_of_each_string 
 {

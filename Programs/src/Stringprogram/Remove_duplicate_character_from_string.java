@@ -1,4 +1,4 @@
-package Program;
+package Stringprogram;
 
 public class Remove_duplicate_character_from_string {
 

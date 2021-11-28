@@ -1,4 +1,4 @@
-package Program;
+package Arrayprogram;
 
 public class sort_array_in_descending2 
 {
@@ -6,7 +6,6 @@ public class sort_array_in_descending2
 	public static void main(String[] args) 
 	{
 		int a [] = { 10, 33, 48, 40, 6, 7 };
-		int start = 0;
 		int temp =0;
 		int end = a.length-1;
 		
@@ -14,7 +13,7 @@ public class sort_array_in_descending2
 		{
 			for (int j = i+1; j<=end; j++)
 			{
-				if (a[i]>a [j])
+				if (a[i]<a [j])
 				{
 					temp = a[i];
 					a [i] = a[j];
